@@ -1,0 +1,8 @@
+# 压缩备份包，不进 git（站点不需要）
+10.zip
+
+# 系统 / 编辑器临时文件
+.DS_Store
+Thumbs.db
+*.log
+node_modules/
